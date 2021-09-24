@@ -1,6 +1,6 @@
 {
-  "name": "oneui-vue-edition",
-  "version": "2.2.0",
+  "name": "helus",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
