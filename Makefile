@@ -9,9 +9,9 @@ help: Makefile
 	@echo
 
 
-## dev: Run dev server
-.PHONY: dev
-dev:
+## run: Run dev server
+.PHONY: run
+run:
 	$(npm) run dev
 
 
