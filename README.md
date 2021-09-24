@@ -1,6 +1,12 @@
-## VueJs Dashboard
+<br/>
+<br/>
+<br/>
+<p align="center">
+    <img alt="Helus Logo" src="/static/logo.png" width="200" />
+    <h3 align="center">Helus</h3>
+    <p align="center">VueJs 3 Minimal Dashboard.</p>
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ### Customize configuration
 
