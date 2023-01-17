@@ -46,7 +46,7 @@
     "highlight.js": "^11.6.0",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.17",
-    "simplebar": "^5.3.8",
+    "simplebar": "^6.0.0",
     "sweetalert2": "^11.4.26",
     "vue": "^3.2.31",
     "vue-chart-3": "^3.1.8",
