@@ -21,7 +21,7 @@
   "dependencies": {
     "@chenfengyuan/vue-countdown": "^2.0.0",
     "@ckeditor/ckeditor5-build-balloon": "^35.0.1",
-    "@ckeditor/ckeditor5-build-balloon-block": "^35.0.1",
+    "@ckeditor/ckeditor5-build-balloon-block": "^36.0.0",
     "@ckeditor/ckeditor5-build-classic": "^35.0.1",
     "@ckeditor/ckeditor5-build-inline": "^35.0.1",
     "@ckeditor/ckeditor5-vue": "^4.0.1",
